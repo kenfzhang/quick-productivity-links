@@ -6,6 +6,7 @@
 - [W3 Schools](https://www.w3schools.com/)
 - [Khan Academy](https://www.khanacademy.org/)
 - [Drawabox.com](https://www.drawabox.com/)
+- [GeoGebra visualizations](https://www.geogebra.org/u/seriousmax)
 - [Ctrl+Paint](https://www.ctrlpaint.com/library)
 - [TV Tropes writing guides](https://tvtropes.org/pmwiki/pmwiki.php/SoYouWantTo/SeeTheIndex)
 - [Brandon Sanderson writing lectures](https://www.youtube.com/watch?v=N4ZDBOc2tX8&list=PLH3mK1NZn9QqOSj3ObrP3xL8tEJQ12-vL&index=2)
