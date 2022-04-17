@@ -5,7 +5,12 @@
 - [Duolingo](https://duolingo.com/)
 - [W3 Schools](https://www.w3schools.com/)
 - [Khan Academy](https://www.khanacademy.org/)
+- [Drawabox.com](https://www.drawabox.com/)
 - [TV Tropes writing guides](https://tvtropes.org/pmwiki/pmwiki.php/SoYouWantTo/SeeTheIndex)
+- [Brandon Sanderson writing lectures](https://www.youtube.com/watch?v=N4ZDBOc2tX8&list=PLH3mK1NZn9QqOSj3ObrP3xL8tEJQ12-vL&index=2)
+- [Voice-over practice scripts - Literature](https://iwanttobeavoiceactor.com/practice-monologs-literature/)
+- [Voice-over practice scripts - Movies](https://iwanttobeavoiceactor.com/practice-monologs-movies/)
+- [Voice-over practice scripts - Shakespeare](https://iwanttobeavoiceactor.com/practice-monologs-shakespeare/)
 
 ## What is this page?
 
@@ -23,4 +28,4 @@ Therefore, being productive largely hinges on me not going to Reddit. To do this
 
 I think there are two things I need to do to increase the difficulty of browsing Reddit -- this page attempts provide both:
 - A place to end up instead of Reddit
-- Links to stimulation to replace the stimulation I would otherwise get from Reddit (this is what was missing from my approach of simply blocking Reddit)
+- Sources of stimulation to replace the stimulation I would otherwise get from Reddit (this is what was missing from my approach of simply blocking Reddit)
