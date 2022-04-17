@@ -2,10 +2,10 @@
 
 ## Bored? Why not go to these places instead?
 
-- [https://duolingo.com/](url)
-- [https://www.w3schools.com/](url)
-- [https://www.khanacademy.org/](url)
-- [https://tvtropes.org/pmwiki/pmwiki.php/SoYouWantTo/SeeTheIndex](url)
+- [Duolingo](https://duolingo.com/)
+- [W3 Schools](https://www.w3schools.com/)
+- [Khan Academy](https://www.khanacademy.org/)
+- [TV Tropes writing guides](https://tvtropes.org/pmwiki/pmwiki.php/SoYouWantTo/SeeTheIndex)
 
 If you randomly found this page: Hello! 
 
