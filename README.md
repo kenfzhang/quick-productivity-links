@@ -7,6 +7,8 @@
 - [Khan Academy](https://www.khanacademy.org/)
 - [TV Tropes writing guides](https://tvtropes.org/pmwiki/pmwiki.php/SoYouWantTo/SeeTheIndex)
 
+## What is this page?
+
 If you randomly found this page: Hello! 
 
 I'm trying an experiment where I've configured my browser to redirect me to this page whenever I try to visit an "unproductive" webpage such as Reddit.
