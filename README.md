@@ -20,7 +20,7 @@
 
 If you randomly found this page: Hello! 
 
-I'm trying an experiment where I've configured my browser to redirect me to this page whenever I try to visit an "unproductive" webpage such as Reddit.
+I'm trying an experiment where I've configured my browser to redirect me to this page whenever I try to visit an "unproductive" webpage such as Reddit. I'm using a page hosted on GitHub since the redirector I'm using is currently unable to redirect to local files.
 
 ### My reason for trying this: 
 
