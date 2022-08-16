@@ -1,5 +1,7 @@
 # quick-productivity-links
 
+Hello, self! This is a reminder that you are currently on dopamine detox!
+
 ## Bored? Why not go to these places instead?
 
 - [Duolingo](https://duolingo.com/)
