@@ -29,7 +29,7 @@ I'm trying an experiment where I've configured my browser to redirect me to this
 
 I have a confession to make -- I probably spend too much time on Reddit. In an attempt to cut down on my Reddit time, I tried configuring my browser to block Reddit. I soon found that this didn't work very well. Simply blocking Reddit didn't remove my need for amusement and I found myself disabling the blocker and browsing Reddit anyway.
 
-I think that something else needs to "replace" the amusement that Reddit provides. Fortunately, this something-else can be a productive task. In order for me to become engrossed in the productive task instead of Reddit, the productive task needs to "find" me first. By this I mean: if I randomly wander into a programming tutorial, I will probably start doing the tutorial and forget that Reddit exists. However, if I randomly wander onto Reddit, I will probably start mindlessly browsing Reddit and forget that anything else exists.
+I think that something else needs to "replace" the amusement that Reddit provides. Fortunately, this something-else can be a productive task. In order for me to become engrossed in the productive task instead of Reddit, the productive task needs to "find" me first. By this I mean: if I randomly wander into a programming tutorial, I will probably start doing the tutorial and forget that Reddit exists (hopefully). However, if I randomly wander onto Reddit, I will probably start mindlessly browsing Reddit and forget that anything else exists.
 
 Therefore, being productive largely hinges on me not going to Reddit. To do this, I need to make Reddit more difficult to visit.
 
