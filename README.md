@@ -12,6 +12,7 @@ On social media detox since: **June 3, 2023**
 - [Go by Example](https://gobyexample.com/)
 - [Next.js](https://nextjs.org/learn/foundations/about-nextjs)
 - [Khan Academy](https://www.khanacademy.org/)
+- [Justin Guitar](https://www.justinguitar.com/)
 - [Drawabox.com](https://www.drawabox.com/)
 - [GeoGebra visualizations](https://www.geogebra.org/u/seriousmax)
 - [Ctrl+Paint](https://www.ctrlpaint.com/library)
