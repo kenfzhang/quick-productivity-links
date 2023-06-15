@@ -10,6 +10,7 @@ On social media detox since: **June 3, 2023**
 - [W3 Schools](https://www.w3schools.com/)
 - [Rust Book](https://rust-book.cs.brown.edu/)
 - [Go by Example](https://gobyexample.com/)
+- [Next.js](https://nextjs.org/learn/foundations/about-nextjs)
 - [Khan Academy](https://www.khanacademy.org/)
 - [Drawabox.com](https://www.drawabox.com/)
 - [GeoGebra visualizations](https://www.geogebra.org/u/seriousmax)
