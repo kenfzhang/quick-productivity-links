@@ -2,7 +2,7 @@
 
 Hello, self! This is a reminder that you are currently on a social media detox!
 
-On social media detox since: **June 3, 2023**
+On social media detox since: **Sept 17, 2023**
 
 ## Bored? Why not go to these places instead?
 
