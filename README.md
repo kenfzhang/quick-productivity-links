@@ -7,6 +7,7 @@ On social media detox since: **Sept 17, 2023**
 ## Bored? Why not go to these places instead?
 
 - [Duolingo](https://duolingo.com/)
+- [Spotify](https://open.spotify.com/)
 - [W3 Schools](https://www.w3schools.com/)
 - [Rust Book](https://rust-book.cs.brown.edu/)
 - [Go by Example](https://gobyexample.com/)
