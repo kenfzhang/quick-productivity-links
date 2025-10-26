@@ -7,12 +7,16 @@ On social media detox since: **Sept 17, 2023**
 ## Bored? Why not go to these places instead?
 
 - [Duolingo](https://duolingo.com/)
+- [Seterra geography games](https://www.seterra.com/)
+- [Khan Academy](https://www.khanacademy.org/)
+- [Hello Music Theory](https://hellomusictheory.com/learn-music-theory/)
+- [musictheory.net](https://www.musictheory.net/lessons)
+- [Musescore](https://musescore.com/)
 - [Spotify](https://open.spotify.com/)
 - [W3 Schools](https://www.w3schools.com/)
 - [Rust Book](https://rust-book.cs.brown.edu/)
 - [Go by Example](https://gobyexample.com/)
 - [Next.js](https://nextjs.org/learn/foundations/about-nextjs)
-- [Khan Academy](https://www.khanacademy.org/)
 - [Justin Guitar](https://www.justinguitar.com/)
 - [Drawabox.com](https://www.drawabox.com/)
 - [GeoGebra visualizations](https://www.geogebra.org/u/seriousmax)
